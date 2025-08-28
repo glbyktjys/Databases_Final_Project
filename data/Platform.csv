@@ -1,0 +1,15 @@
+PlatformID,PlatformName,Manufacturer,TotalGameNumber,WebSite
+1,PS3,Sony,42,https://www.playstation.com/en-us/support/hardware/ps3/
+2,PS4,Sony,46,https://www.playstation.com/en-us/ps4/
+3,PS2,Sony,54,https://www.playstation.com/en-us/support/hardware/ps2/
+4,X360,Microsoft,50,https://www.xbox.com/en-US/xbox-360
+5,XOne,Microsoft,20,https://www.xbox.com/en-US/xbox-one
+6,PC,Various,8,https://store.steampowered.com/
+7,PSP,Sony,5,https://www.playstation.com/en-gb/explore/psp/
+8,Wii,Nintendo,9,https://en-americas-support.nintendo.com/app/answers/detail/a_id/4191/~/wii-system-features
+9,PS,Sony,23,https://www.playstation.com/en-us/playstation-history/1994-ps-one/
+10,DS,Nintendo,9,https://en.wikipedia.org/wiki/Nintendo_DS
+11,2600,Atari,1,https://atari.com/products/atari-2600-plus
+12,GBA,Nintendo,2,https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy-Advance/Game-Boy-Advance-627139.html
+13,NES,Nintendo,1,https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-Entertainment-System/Nintendo-Entertainment-System-627024.html
+14,XB,Microsoft,1,https://www.xbox.com/en-US/consoles/all-consoles
